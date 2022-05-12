@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="mendix.colourcount.ColourCount" pluginWidget="true" needsEntityContext="true" offlineCapable="true"
+        supportedPlatform="Web"
+        xmlns="http://www.mendix.com/widget/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.mendix.com/widget/1.0/ ../node_modules/mendix/custom_widget.xsd">
+    <name>Colour Count</name>
+    <description>A randomised colour counter</description>
+    <icon/>
+    <properties>
+        <propertyGroup caption="General">
+            <property key="initialValue" type="integer" required="true" defaultValue="5">
+                <caption>Initial Value</caption>
+                <description>The initial value of the counter</description>
+            </property>
+        </propertyGroup>
+    </properties>
+</widget>
