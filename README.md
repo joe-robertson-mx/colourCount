@@ -1,17 +1,15 @@
 ## ColourCount
-[A randomised colour counter]
+A widget to accompany the ColourCount pluggable widget blog
 
 ## Features
-[feature highlights]
+A counter which can be incremeneted or decreased by one, and on chnage changes colour.
 
 ## Usage
-[step by step instructions]
-
-## Demo project
-[link to sandbox]
+Drag the built widget into your Mendix application, and set the initial value.
+Click the + button to increase the counter and - to decrease.
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+https://github.com/joerob319/colourCount/issues
 
 ## Development and contribution
 
@@ -20,5 +18,3 @@
     - the widget will be bundled;
     - the bundle will be included in a `dist` folder in the root directory of the project;
     - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]
